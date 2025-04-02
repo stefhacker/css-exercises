@@ -13,6 +13,8 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-direction: column;
+  
 }
 
 .modal {
@@ -74,6 +76,8 @@ button.cancel {
   display: flex;
   gap: 16px;
   padding: 16px;
+  
+
 }
 
 .icon {
